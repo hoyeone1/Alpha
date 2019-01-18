@@ -32,9 +32,11 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/blue-purple-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
