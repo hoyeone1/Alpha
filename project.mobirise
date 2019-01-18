@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "심시티빌드잇 정보공유 카페",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -154,7 +154,7 @@
     "contact.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "contact",
+        "title": "문의하기",
         "order": 2
       },
       "components": [
