@@ -2072,26 +2072,3 @@ body {
     font-size: 0.8rem;
   }
 }
-.cid-rfBFbq6rNM {
-  background: #ffffff;
-}
-.cid-rfBFbq6rNM .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rfBFbq6rNM .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rfBFbq6rNM figcaption {
-  position: relative;
-}
-.cid-rfBFbq6rNM figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rfBFbq6rNM .image-block {
-    width: 100% !important;
-  }
-}
